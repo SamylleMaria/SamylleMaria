@@ -1,4 +1,4 @@
-## Olá, me chamo samylle Maria
+## Olá, me chamo Samylle Maria
 
 | GitHub Stats ⭐ | Most Used Languages 💻 |
 |--------------|---------------------|
