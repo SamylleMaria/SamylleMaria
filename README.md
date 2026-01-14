@@ -1,6 +1,6 @@
 # Olá, me chamo Samylle Maria
 
-Desenvolvedora Web | Landing Pages | Estudando PHP | UX/UI como diferencial
+Desenvolvedora Web | Landing Pages | Estudando PHP | UX/UI
 
 ---
 ## Sobre mim
